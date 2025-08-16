@@ -42,7 +42,8 @@ table {
   margin-bottom: 300px;
 }
 
-td, th {
+td,
+th {
   width: 400px;
   /* background-color: red; */
   border: 1px solid #212121;
@@ -52,7 +53,8 @@ td {
   height: 100px;
 }
 
-tr td:nth-child(1), th {
+tr td:nth-child(1),
+th {
   background-color: #212121;
 }
 
@@ -86,7 +88,7 @@ tr td:nth-child(1), th {
   width: inherit;
 }
 
-.select-box:focus+.select-options-container,
+.select-box.open+.select-options-container,
 .select-options-container:active {
   display: block;
 }
@@ -98,7 +100,6 @@ tr td:nth-child(1), th {
   /* height: 125px; */
   padding: 10px;
   cursor: pointer;
-  user-select: none;
 }
 
 .select-option:hover {
@@ -120,10 +121,20 @@ tr td:nth-child(1), th {
   line-height: 24px;
 }
 
-.semesterLesson > label {
+.semesterLesson>label {
   margin-left: 10px;
 }
 
 h1 {
   margin-top: 16px;
+}
+
+.select-box,
+.select-option {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
 }

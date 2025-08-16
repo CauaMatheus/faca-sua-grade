@@ -470,7 +470,6 @@ const classes = (
     "FGA0048": [{"code": "FGA0048", "name": "MECÂNICA DO VOO ESPACIAL", "classNum": 1, "teacher": "William Reis Silva", "schedules": [[1, 2], [1, 4]]}],
     "FGA0050": [{"code": "FGA0050", "name": "DINÂMICA DE ESTRUTURAS AEROESPACIAIS", "classNum": 1, "teacher": "Sergio Henrique Da Silva Carneiro", "schedules": [[1, 1], [1, 3]]}],
     "FGA0053": [{"code": "FGA0053", "name": "TÓPICOS ESPECIAIS EM PROGRAMAÇÃO", "classNum": 1, "teacher": "Mauricio Serrano e Milene Serrano", "schedules": [[3, 0], [4, 0]]}],
-    "FGA0054": [{"code": "FGA0054", "name": "TÓPICOS ESPECIAIS EM GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO", "classNum": 1, "teacher": "Wander Cleber Maria Pereira Da Silva", "schedules": [[1, 1], [1, 3]]}],
     "FGA0055": [{"code": "FGA0055", "name": "TECNOLOGIAS DE FABRICAÇÃO 1", "classNum": 1, "teacher": "Rhander Viana", "schedules": [[3, 1], [3, 3]]}],
     "FGA0056": [{"code": "FGA0056", "name": "TECNOLOGIAS DE FABRICAÇÃO 2", "classNum": 1, "teacher": "Edison Gustavo Cueva Galarraga", "schedules": [[1, 1], [1, 3]]}],
     "FGA0057": [{"code": "FGA0057", "name": "ELETRÔNICA DE POTÊNCIA", "classNum": 1, "teacher": "Marcus Vinicius Batistuta", "schedules": [[1, 1], [1, 3]]}],
@@ -481,7 +480,7 @@ const classes = (
     "FGA0068": [{"code": "FGA0068", "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 2", "classNum": 1, "teacher": "Gilmar Silva Beserra", "schedules": [[0, 0], [0, 2]]}],
     "FGA0069": [{"code": "FGA0069", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1", "classNum": 1, "teacher": "Marcus Vinicius Chaffim Costa", "schedules": [[0, 4]]}, {"code": "FGA0069", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1", "classNum": 2, "teacher": "Marcus Vinicius Chaffim Costa", "schedules": [[1, 4]]}, {"code": "FGA0069", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 1", "classNum": 3, "teacher": "Marcus Vinicius Chaffim Costa", "schedules": [[1, 2]]}],
     "FGA0070": [{"code": "FGA0070", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 2", "classNum": 1, "teacher": "Diogo De Oliveira Costa", "schedules": [[4, 1]]}],
-    "FGA0071": [{"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 1, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[3, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 2, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[0, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 3, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[1, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 4, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[2, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 6, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[0, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 7, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[1, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 8, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[3, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 9, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[4, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 11, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[5, 1]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 12, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[5, 3]]}],
+    "FGA0071": [{"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 1, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[3, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 2, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[0, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 3, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[1, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 4, "teacher": "Henrique Marra Taira Menegaz", "schedules": [[2, 3]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 6, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[0, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 7, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[1, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 8, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[3, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 9, "teacher": "Marcelino Monteiro De Andrade", "schedules": [[4, 2]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 11, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[0, 1]]}, {"code": "FGA0071", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 1", "classNum": 12, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[0, 4]]}],
     "FGA0072": [{"code": "FGA0072", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 2", "classNum": 1, "teacher": "Daniel Mauricio Munoz Arboleda", "schedules": [[0, 0]]}, {"code": "FGA0072", "name": "PRÁTICA DE ELETRÔNICA DIGITAL 2", "classNum": 2, "teacher": "Daniel Mauricio Munoz Arboleda", "schedules": [[1, 0]]}],
     "FGA0073": [{"code": "FGA0073", "name": "TEORIA DE ELETRÔNICA DIGITAL 1", "classNum": 1, "teacher": "Renato Vilela Lopes", "schedules": [[0, 2], [0, 4]]}, {"code": "FGA0073", "name": "TEORIA DE ELETRÔNICA DIGITAL 1", "classNum": 2, "teacher": "Renato Vilela Lopes", "schedules": [[3, 2], [3, 4]]}, {"code": "FGA0073", "name": "TEORIA DE ELETRÔNICA DIGITAL 1", "classNum": 3, "teacher": "Luis Filomeno De Jesus Fernandes", "schedules": [[4, 1], [4, 3]]}],
     "FGA0074": [{"code": "FGA0074", "name": "TEORIA DE ELETRÔNICA DIGITAL 2", "classNum": 1, "teacher": "Daniel Mauricio Munoz Arboleda", "schedules": [[1, 1], [1, 3]]}],
@@ -499,7 +498,7 @@ const classes = (
     "FGA0092": [{"code": "FGA0092", "name": "PRINCÍPIOS DE COMUNICAÇÃO PARA ENGENHARIA", "classNum": 1, "teacher": "Sebastien Roland Marie Joseph Rondineau", "schedules": [[0, 1], [0, 3]]}],
     "FGA0093": [{"code": "FGA0093", "name": "PRINCÍPIOS DE CONTROLE", "classNum": 1, "teacher": "Roberto De Souza Baptista", "schedules": [[2, 1], [3, 1], [3, 3]]}, {"code": "FGA0093", "name": "PRINCÍPIOS DE CONTROLE", "classNum": 2, "teacher": "Thiago Felippe Kurudez Cordeiro", "schedules": [[3, 2], [2, 3], [3, 4]]}],
     "FGA0095": [{"code": "FGA0095", "name": "CODIFICAÇÃO E COMPRESSÃO DE SINAIS, IMAGENS E VÍDEO", "classNum": 1, "teacher": "Marcus Vinicius Chaffim Costa", "schedules": [[3, 2], [3, 4]]}],
-    "FGA0098": [{"code": "FGA0098", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3", "classNum": 1, "teacher": "Diogo De Oliveira Costa", "schedules": [[3, 1]]}],
+    "FGA0098": [{"code": "FGA0098", "name": "PRÁTICA DE CIRCUITOS ELETRÔNICOS 3", "classNum": 1, "teacher": "Diogo De Oliveira Costa", "schedules": [[4, 0]]}],
     "FGA0099": [{"code": "FGA0099", "name": "TEORIA DE CIRCUITOS ELETRÔNICOS 3", "classNum": 1, "teacher": "Wellington Avelino Do Amaral", "schedules": [[4, 1], [4, 3]]}],
     "FGA0100": [{"code": "FGA0100", "name": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS", "classNum": 2, "teacher": "Gerardo Antonio Idrobo Pizo", "schedules": [[2, 1]]}, {"code": "FGA0100", "name": "PRÁTICA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS", "classNum": 3, "teacher": "Gerardo Antonio Idrobo Pizo", "schedules": [[4, 4]]}],
     "FGA0101": [{"code": "FGA0101", "name": "TEORIA DE FÍSICA DOS DISPOSITIVOS ELETRÔNICOS", "classNum": 1, "teacher": "Marcus Vinicius Batistuta", "schedules": [[4, 1], [4, 3]]}],
@@ -514,7 +513,7 @@ const classes = (
     "FGA0118": [{"code": "FGA0118", "name": "SISTEMAS DE INFORMAÇÃO GEOGRÁFICA PARA ENGENHARIA", "classNum": 1, "teacher": "Josiane Do Socorro Aguiar De Souza De Oliveira Campos", "schedules": [[1, 0], [1, 2]]}],
     "FGA0119": [{"code": "FGA0119", "name": "TEORIA DE ELETROMAGNETISMO", "classNum": 1, "teacher": "Andre Luiz Almeida Penna", "schedules": [[3, 0], [3, 2]]}, {"code": "FGA0119", "name": "TEORIA DE ELETROMAGNETISMO", "classNum": 2, "teacher": "Andre Luiz Almeida Penna", "schedules": [[0, 2], [0, 4]]}],
     "FGA0120": [{"code": "FGA0120", "name": "PRÁTICA DE ELETROMAGNETISMO", "classNum": 1, "teacher": "Gerardo Antonio Idrobo Pizo", "schedules": [[3, 4]]}, {"code": "FGA0120", "name": "PRÁTICA DE ELETROMAGNETISMO", "classNum": 2, "teacher": "Gerardo Antonio Idrobo Pizo", "schedules": [[4, 1]]}],
-    "FGA0121": [{"code": "FGA0121", "name": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL", "classNum": 1, "teacher": "Diogo De Oliveira Costa", "schedules": [[2, 1], [2, 3]]}],
+    "FGA0121": [{"code": "FGA0121", "name": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL", "classNum": 1, "teacher": "Diogo De Oliveira Costa", "schedules": [[2, 1], [2, 3]]}, {"code": "FGA0121", "name": "TÓPICOS ESPECIAIS 4 EM ENGENHARIA AEROESPACIAL", "classNum": 2, "teacher": "Andre Luis Rodrigues Araujo", "schedules": [[4, 0], [4, 2]]}],
     "FGA0124": [{"code": "FGA0124", "name": "PROJETO DE ALGORITMOS", "classNum": 1, "teacher": "Mauricio Serrano", "schedules": [[1, 0], [1, 4]]}],
     "FGA0132": [{"code": "FGA0132", "name": "INSTRUMENTAÇÃO ELETRÔNICA PARA ENGENHARIA", "classNum": 1, "teacher": "Claudia Patricia Ochoa Diaz", "schedules": [[1, 1], [1, 3]]}],
     "FGA0133": [{"code": "FGA0133", "name": "ENGENHARIA ECONÔMICA", "classNum": 1, "teacher": "Paula Meyer Soares", "schedules": [[1, 1], [1, 3]]}, {"code": "FGA0133", "name": "ENGENHARIA ECONÔMICA", "classNum": 2, "teacher": "Glauceny Cirne De Medeiros", "schedules": [[4, 2], [4, 4]]}],
@@ -535,7 +534,7 @@ const classes = (
     "FGA0164": [{"code": "FGA0164", "name": "HUMANIDADES E CIDADANIA", "classNum": 1, "teacher": "Sandra Maria Faleiros Lima", "schedules": [[3, 2], [3, 4]]}, {"code": "FGA0164", "name": "HUMANIDADES E CIDADANIA", "classNum": 2, "teacher": "Sandra Maria Faleiros Lima", "schedules": [[2, 2], [2, 4]]}, {"code": "FGA0164", "name": "HUMANIDADES E CIDADANIA", "classNum": 3, "teacher": "Vanessa Maria De Castro", "schedules": [[3, 1], [3, 3]]}, {"code": "FGA0164", "name": "HUMANIDADES E CIDADANIA", "classNum": 4, "teacher": "Vanessa Maria De Castro", "schedules": [[4, 1], [4, 3]]}],
     "FGA0166": [{"code": "FGA0166", "name": "ELEMENTOS E MÉTODOS EM ELETRÔNICA", "classNum": 1, "teacher": "Fabiano Araujo Soares", "schedules": [[3, 1], [3, 3]]}],
     "FGA0167": [{"code": "FGA0167", "name": "SISTEMAS AUTOMOTIVOS", "classNum": 1, "teacher": "Saleh Barbosa Khalil", "schedules": [[3, 1], [3, 3]]}],
-    "FGA0168": [{"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 1, "teacher": "Eneida Gonzalez Valdes", "schedules": [[0, 0], [0, 2], [0, 4]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 2, "teacher": "", "schedules": [[0, 0], [0, 2], [0, 4]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 3, "teacher": "Himilsys Hernandez Gonzalez", "schedules": [[1, 0], [1, 1], [1, 3]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 4, "teacher": "Saleh Barbosa Khalil", "schedules": [[1, 0], [1, 1], [1, 3]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 5, "teacher": "Mateus Rodrigues Miranda", "schedules": [[4, 1], [4, 3], [4, 4]]}],
+    "FGA0168": [{"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 1, "teacher": "Eneida Gonzalez Valdes", "schedules": [[0, 0], [0, 2], [0, 4]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 2, "teacher": "Andre Luis Rodrigues Araujo", "schedules": [[0, 0], [0, 2], [0, 4]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 3, "teacher": "Himilsys Hernandez Gonzalez", "schedules": [[1, 0], [1, 1], [1, 3]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 4, "teacher": "Saleh Barbosa Khalil", "schedules": [[1, 0], [1, 1], [1, 3]]}, {"code": "FGA0168", "name": "DESENHO INDUSTRIAL ASSISTIDO POR COMPUTADOR", "classNum": 5, "teacher": "Mateus Rodrigues Miranda", "schedules": [[4, 1], [4, 3], [4, 4]]}],
     "FGA0169": [{"code": "FGA0169", "name": "FONTES DE ENERGIA E TECNOLOGIAS DE CONVERSÃO", "classNum": 1, "teacher": "Augusto Cesar De Mendonca Brasil", "schedules": [[0, 2], [0, 4]]}],
     "FGA0170": [{"code": "FGA0170", "name": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS", "classNum": 1, "teacher": "Daniel Sundfeld Lima", "schedules": [[1, 2], [1, 4]]}, {"code": "FGA0170", "name": "FUNDAMENTOS DE SISTEMAS OPERACIONAIS", "classNum": 2, "teacher": "Daniel Sundfeld Lima", "schedules": [[2, 2], [2, 4]]}],
     "FGA0173": [{"code": "FGA0173", "name": "INTERAÇÃO HUMANO COMPUTADOR", "classNum": 1, "teacher": "Sergio Antonio Andrade De Freitas", "schedules": [[1, 0], [1, 2]]}, {"code": "FGA0173", "name": "INTERAÇÃO HUMANO COMPUTADOR", "classNum": 2, "teacher": "Rejane Maria Da Costa Figueiredo", "schedules": [[4, 1], [4, 3]]}],
@@ -562,7 +561,7 @@ const classes = (
     "FGA0229": [{"code": "FGA0229", "name": "ANÁLISE ESTRUTURAL MÉTODO DOS ELEMENTOS FINITOS", "classNum": 1, "teacher": "Maura Angelica Milfont Shzu", "schedules": [[0, 1], [0, 3]]}],
     "FGA0230": [{"code": "FGA0230", "name": "DINÂMICA DE VEÍCULOS", "classNum": 1, "teacher": "Suzana Moreira Avila", "schedules": [[0, 1], [0, 3]]}],
     "FGA0235": [{"code": "FGA0235", "name": "TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA", "classNum": 1, "teacher": "Rudi Henri Van Els", "schedules": [[0, 1], [1, 1]]}, {"code": "FGA0235", "name": "TÓPICOS ESPECIAIS 1 EM ENGENHARIA DE ENERGIA", "classNum": 2, "teacher": "Jorge Andres Cormane Angarita", "schedules": [[4, 0], [4, 2]]}],
-    "FGA0242": [{"code": "FGA0242", "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES", "classNum": 1, "teacher": "Andre Luiz Peron Martins Lanna", "schedules": [[4, 0], [4, 2]]}, {"code": "FGA0242", "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES", "classNum": 2, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[5, 0], [5, 2]]}],
+    "FGA0242": [{"code": "FGA0242", "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES", "classNum": 1, "teacher": "Andre Luiz Peron Martins Lanna", "schedules": [[4, 0], [4, 2]]}, {"code": "FGA0242", "name": "TÉCNICAS DE PROGRAMAÇÃO EM PLATAFORMAS EMERGENTES", "classNum": 2, "teacher": "Thiago Luiz De Souza Gomes", "schedules": [[0, 0], [0, 2]]}],
     "FGA0244": [{"code": "FGA0244", "name": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS", "classNum": 1, "teacher": "Fernando William Cruz", "schedules": [[3, 0], [3, 2]]}, {"code": "FGA0244", "name": "PROGRAMAÇÃO PARA SISTEMAS PARALELOS E DISTRIBUÍDOS", "classNum": 2, "teacher": "Fernando William Cruz", "schedules": [[2, 0], [2, 2]]}],
     "FGA0252": [{"code": "FGA0252", "name": "SISTEMAS HIDROELÉTRICOS", "classNum": 1, "teacher": "Rudi Henri Van Els e Luciano Goncalves Noleto", "schedules": [[0, 2], [0, 4]]}],
     "FGA0254": [{"code": "FGA0254", "name": "CIÊNCIAS AEROESPACIAIS", "classNum": 1, "teacher": "Gabriela Cunha Possa", "schedules": [[1, 1], [1, 3]]}],
@@ -571,6 +570,7 @@ const classes = (
     "FGA0265": [{"code": "FGA0265", "name": "ECONOMIA DE ENERGIA", "classNum": 1, "teacher": "Paula Meyer Soares", "schedules": [[0, 1], [0, 3]]}],
     "FGA0266": [{"code": "FGA0266", "name": "ACÚSTICA E VIBRAÇÕES VEICULARES", "classNum": 1, "teacher": "Maria Alzira De Araujo Nunes", "schedules": [[1, 2], [1, 4]]}],
     "FGA0267": [{"code": "FGA0267", "name": "PROJETO DE ESTRUTURAS DE VEICULOS", "classNum": 1, "teacher": "Henrique Gomes De Moura", "schedules": [[2, 0], [2, 2]]}],
+    "FGA0274": [{"code": "FGA0274", "name": "PRODUTIVIDADE E PROFISSIONALISMO EM ENGENHARIA DE SOFTWARE", "classNum": 1, "teacher": "Wander Cleber Maria Pereira Da Silva", "schedules": [[1, 1], [1, 3]]}],
     "FGA0280": [{"code": "FGA0280", "name": "PROJETO DE CIRCUITOS ELETRÔNICOS INTEGRADOS 2", "classNum": 1, "teacher": "Sandro Augusto Pavlik Haddad", "schedules": [[3, 1], [3, 3]]}],
     "FGA0281": [{"code": "FGA0281", "name": "SISTEMAS DE PROPULSÃO LIQUIDA", "classNum": 1, "teacher": "Artur Elias De Morais Bertoldi", "schedules": [[4, 1], [4, 3]]}],
     "FGA0283": [{"code": "FGA0283", "name": "MECÂNICA DOS MATERIAIS COMPÓSITOS", "classNum": 1, "teacher": "Artem Andrianov", "schedules": [[1, 1], [1, 3]]}],
@@ -582,7 +582,7 @@ const classes = (
     "FGA0307": [{"code": "FGA0307", "name": "GESTÃO DA PRODUÇÃO E QUALIDADE", "classNum": 1, "teacher": "Mario De Oliveira Andrade", "schedules": [[4, 1], [4, 3]]}, {"code": "FGA0307", "name": "GESTÃO DA PRODUÇÃO E QUALIDADE", "classNum": 2, "teacher": "Rejane Maria Da Costa Figueiredo", "schedules": [[3, 1], [3, 3]]}],
     "FGA0308": [{"code": "FGA0308", "name": "ELETRÔNICA EMBARCADA", "classNum": 1, "teacher": "Guillermo Alvarez Bestard", "schedules": [[4, 0], [4, 2], [4, 4]]}],
     "FGA0309": [{"code": "FGA0309", "name": "SISTEMAS OPERACIONAIS EMBARCADOS", "classNum": 1, "teacher": "Diogo Caetano Garcia", "schedules": [[3, 0], [3, 2], [3, 4]]}],
-    "FGA0312": [{"code": "FGA0312", "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE", "classNum": 2, "teacher": "Carla Silva Rocha Aguiar", "schedules": [[1, 2], [1, 4]]}, {"code": "FGA0312", "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE", "classNum": 3, "teacher": "Ricardo Ajax Dias Kosloski", "schedules": [[3, 0], [3, 2]]}],
+    "FGA0312": [{"code": "FGA0312", "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE", "classNum": 2, "teacher": "Carla Silva Rocha Aguiar", "schedules": [[1, 2], [1, 4]]}, {"code": "FGA0312", "name": "MÉTODOS DE DESENVOLVIMENTO DE SOFTWARE", "classNum": 3, "teacher": "Ricardo Ajax Dias Kosloski", "schedules": [[0, 5], [1, 5]]}],
     "FGA0313": [{"code": "FGA0313", "name": "REQUISITOS DE SOFTWARE", "classNum": 1, "teacher": "George Marsicano Correa", "schedules": [[0, 1], [0, 3]]}, {"code": "FGA0313", "name": "REQUISITOS DE SOFTWARE", "classNum": 2, "teacher": "George Marsicano Correa", "schedules": [[1, 1], [1, 3]]}, {"code": "FGA0313", "name": "REQUISITOS DE SOFTWARE", "classNum": 3, "teacher": "Andre Barros De Sales", "schedules": [[0, 1], [0, 3]]}],
     "FGA0314": [{"code": "FGA0314", "name": "TESTES DE SOFTWARE", "classNum": 1, "teacher": "Elaine Venson", "schedules": [[3, 1], [3, 3]]}, {"code": "FGA0314", "name": "TESTES DE SOFTWARE", "classNum": 2, "teacher": "Elaine Venson", "schedules": [[4, 1], [4, 3]]}],
     "FGA0315": [{"code": "FGA0315", "name": "QUALIDADE DE SOFTWARE 1", "classNum": 1, "teacher": "Cristiane Soares Ramos", "schedules": [[1, 0], [1, 2]]}, {"code": "FGA0315", "name": "QUALIDADE DE SOFTWARE 1", "classNum": 2, "teacher": "Cristiane Soares Ramos", "schedules": [[3, 0], [3, 2]]}],
@@ -611,6 +611,8 @@ Object.entries(classes).forEach(([code, allClasses]) => {
 });
 
 const translateDayToStr = ["", "Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"];
+const startHoverEvents = ["mouseenter", "focus", "pointerdown"];
+const endHoverEvents = ["mouseleave", "blur"]
 class Grade {
   /** @type {HTMLTableElement} */
   #table
@@ -680,6 +682,7 @@ class Grade {
     }
     this.#selectedClasses.add(id);
     this.#saveLocalStorage();
+    this.#clearWarnings();
   }
 
   /** @param {string} id */
@@ -691,6 +694,7 @@ class Grade {
     }
     this.#selectedClasses.delete(id);
     this.#saveLocalStorage();
+    this.#clearWarnings();
   }
 
   /** @param {string} code */
@@ -706,10 +710,12 @@ class Grade {
       })
     })
     this.#saveLocalStorage();
+    this.#clearWarnings();
   }
 
   /** @param {string} id */
   #warnAddById(id) {
+    this.#clearWarnings();
     const lesson = classById[id];
     this.#warnRemoveByCode(lesson.code);
 
@@ -828,10 +834,22 @@ class Grade {
         const selectContainer = document.createElement("div");
         selectContainer.classList.add("select-container");
 
-        const selectBox = document.createElement("button");
+        const selectBox = document.createElement("div");
         selectBox.classList.add("select-box");
         selectBox.innerText = lessons.length ? "-" : "🔒";
         selectContainer.appendChild(selectBox);
+
+        selectBox.addEventListener("click", () => {
+          if(!selectBox.classList.toggle("open")) {
+            this.#clearWarnings();
+          }
+        });
+        document.addEventListener("click", (event) => {
+          if(!selectBox.contains(event.target)) {
+            selectBox.classList.remove("open");
+            this.#clearWarnings();
+          }
+        });
 
         const selectOptionsContainer = document.createElement("div");
         selectOptionsContainer.classList.add("select-options-container");
@@ -847,14 +865,20 @@ class Grade {
           }
         });
 
-        resetOption.addEventListener("mouseenter", () => {
-          if (selectBox.id) {
-            this.#warnRemoveById(selectBox.id);
-          }
+        startHoverEvents
+        .forEach((hoverEvent) => {
+          resetOption.addEventListener(hoverEvent, () => {
+            if (selectBox.id) {
+              this.#warnRemoveById(selectBox.id);
+            }
+          });
         });
 
-        resetOption.addEventListener("mouseout", () => {
-          this.#clearWarnings();
+        endHoverEvents
+        .forEach((endHoverEvent) => {
+          resetOption.addEventListener(endHoverEvent, () => {
+            this.#clearWarnings();
+          });
         });
 
         for (const lesson of lessons) {
@@ -867,13 +891,17 @@ class Grade {
             this.#chooseClassById(lesson.code + lesson.classNum);
           });
 
-          selectOption.addEventListener("mouseenter", () => {
-            this.#warnAddById(lesson.code + lesson.classNum);
+          startHoverEvents.forEach((hoverEvent) => {
+            selectOption.addEventListener(hoverEvent, () => {
+              this.#warnAddById(lesson.code + lesson.classNum);
+            });
           });
 
-          selectOption.addEventListener("mouseout", () => {
-            this.#clearWarnings();
-          });
+          endHoverEvents.forEach((endHoverEvent) => {
+            selectOption.addEventListener(endHoverEvent, () => {
+              this.#clearWarnings();
+            });
+          })
         }
 
         selectContainer.appendChild(selectOptionsContainer);

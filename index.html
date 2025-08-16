@@ -13,18 +13,14 @@
   <div id="root">
 
   </div>
-  
-  <script>
-    if(window.innerWidth < window.innerHeight) {
-      alert("Esse site é feito para funcionar apenas em computadores. Celulares podem trazer uma má experiência.")
-    }
 
+  <script>
     function loadScript(src) {
       const script = document.createElement('script');
       script.src = src + '?v=' + new Date().getTime();
       document.body.appendChild(script);
     }
-  
+
     loadScript('./data.js');
     loadScript('./index.js');
   </script>

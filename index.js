@@ -6,10 +6,18 @@ window.onload = async () => {
   const table = grade.getTable();
 
   const description = document.createElement("h1");
-  description.innerHTML = "Turmas atualizadas no dia 24/07/2025 às 23:45";
-
+  description.innerHTML = "Turmas atualizadas no dia 16/08/2025 às 18:40";
   const list = grade.getList();
   root.appendChild(list);
   root.appendChild(description);
+  if(window.innerWidth < window.innerHeight) {
+    const help = document.createElement("h2");
+    help.innerText = "Dê zoom out para ver melhor";
+    root.appendChild(help);
+  }
   root.appendChild(table);
+
+  setTimeout(() => {
+    window.scrollTo(window.innerWidth, 0);
+  }, 100)
 }
