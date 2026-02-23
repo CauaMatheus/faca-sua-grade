@@ -8,8 +8,8 @@ async function fetchHTML(universityCode) {
     formTurma: 'formTurma',
     "formTurma:inputNivel": "",
     "formTurma:inputDepto": universityCode,
-    "formTurma:inputAno": "2025",
-    "formTurma:inputPeriodo": "2",
+    "formTurma:inputAno": "2026",
+    "formTurma:inputPeriodo": "1",
     "formTurma:j_id_jsp_1370969402_11": "Buscar",
     "javax.faces.ViewState": "j_id1"
   });
@@ -99,9 +99,6 @@ async function getClasses() {
             const i = (horario-8) >> 1;
 
             schedules.push([i, j]);
-          }
-          if(code === "FGA0242") {
-            console.log({schedules, time});
           }
 
           return schedules;
