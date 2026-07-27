@@ -9,7 +9,7 @@ async function fetchHTML(universityCode) {
     "formTurma:inputNivel": "",
     "formTurma:inputDepto": universityCode,
     "formTurma:inputAno": "2026",
-    "formTurma:inputPeriodo": "1",
+    "formTurma:inputPeriodo": "2",
     "formTurma:j_id_jsp_1370969402_11": "Buscar",
     "javax.faces.ViewState": "j_id1"
   });
